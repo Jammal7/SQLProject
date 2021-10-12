@@ -1,0 +1,1 @@
+SELECT DISTINCT Country_Name FROM NewTable
